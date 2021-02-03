@@ -1,0 +1,31 @@
+Sr.,Week,List of Experiments,Mapped
+NO.,No.,,with CO
+1,1,Introduction to Python and Numpy (2 Hrs) *,3
+2,2,"Introduction to Pandas, Matplotlib and Sklearn (2 Hrs) *",3
+"",,,
+3,"3,4",Simple and Multiple Linear Regression using Gradient,3
+"",,Descent & Normal Equation Method (without using,
+"",,sklearn or equivalent library for both) (4 Hrs),
+"",,,
+4,5,Linear Regression with Regularization (without using,3
+"",,sklearn or equivalent library) and Simple and Multiple,
+"",,Linear Regression with and without regularization using,
+"",,Sklearn (2 Hrs),
+"",,,
+5,6,"Naïve-Bayes – Multivariate Bernoulli, Multinomial and",3
+"",,Gaussian using sklearn (2 Hrs),
+"",,,
+6,7,"Decision Trees – ID3, C4.5 using sklearn (2 Hrs)",3
+7,8,Support Vector Classification and Regression with Grid,3
+"",,Search for Hyper-parameter tuning using sklearn (2 Hrs),
+"",,,
+8,9,AND gate using Perceptron Learning (self-,3
+"",,implementation) (2 Hrs),
+"",,,
+9,"10,11",Ex-OR Gate/any other problem using Backpropagation,3
+"",,Neural Networks (self-implementation) (4 Hrs),
+10,12,Backpropagation Neural Network and K-means using,3
+"",,sklearn (2 Hrs),
+11,"13,14,15",Reinforcement Learning for some game. (self-,3
+"",,implementation) (6 Hrs),
+"",,Total,30
